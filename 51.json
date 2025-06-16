@@ -1,0 +1,482 @@
+[
+  {
+    "ID": "4676",
+    "SURAH": "51",
+    "AYAH": "1",
+    "ARABIC_TEXT": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+    "TRANSLATION": "Allah thề bởi những cơn gió thổi cát bụi bay đi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4677",
+    "SURAH": "51",
+    "AYAH": "2",
+    "ARABIC_TEXT": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+    "TRANSLATION": "Allah thề bởi những đám mây chứa nước mưa.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4678",
+    "SURAH": "51",
+    "AYAH": "3",
+    "ARABIC_TEXT": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+    "TRANSLATION": "Allah thề bởi những con tàu, thuyền vượt trùng dương một cách nhẹ nhàng, êm ái.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4679",
+    "SURAH": "51",
+    "AYAH": "4",
+    "ARABIC_TEXT": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+    "TRANSLATION": "Allah thề bởi các vị Thiên Thần được giao nhiệm vụ phân phối theo mệnh lệnh của Ngài.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4680",
+    "SURAH": "51",
+    "AYAH": "5",
+    "ARABIC_TEXT": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+    "TRANSLATION": "Quả thật, điều mà Thượng Đế của các ngươi đã hứa với các người từ việc phán xét, thưởng phạt là thật, chắc chắn sẽ xảy ra, không có gì phải hoài nghi và ngờ vực cả.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4681",
+    "SURAH": "51",
+    "AYAH": "6",
+    "ARABIC_TEXT": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+    "TRANSLATION": "Quả thật việc phán xử các bề tôi vào Ngày Phục Sinh là điều chắc chắn xảy ra.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4682",
+    "SURAH": "51",
+    "AYAH": "7",
+    "ARABIC_TEXT": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+    "TRANSLATION": "Allah thề bởi bầu trời tốt đẹp chứa đầy những con đường.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4683",
+    "SURAH": "51",
+    "AYAH": "8",
+    "ARABIC_TEXT": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+    "TRANSLATION": "Hỡi cư dân Makkah, quả thật các ngươi không có sự thống nhất trong lời nói. Có lúc các ngươi nói Qur'an là thứ bùa chú, có lúc các ngươi nói Qur'an là thơ ca; có lúc các ngươi nói Muhammad là một tên thầy bùa và có lúc các ngươi lại nói Y là một nhà thơ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4684",
+    "SURAH": "51",
+    "AYAH": "9",
+    "ARABIC_TEXT": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+    "TRANSLATION": "Những kẻ lánh xa Qur'an và Thiên Sứ Muhammad là những kẻ lánh xa sự chỉ đạo và hướng dẫn.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4685",
+    "SURAH": "51",
+    "AYAH": "10",
+    "ARABIC_TEXT": "قُتِلَ ٱلۡخَرَّٰصُونَ",
+    "TRANSLATION": "Những kẻ phủ nhận, những kẻ mà chúng đã nói không đúng về Qur'an và Thiên Sứ Muhammad, bị nguyền rủa.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4686",
+    "SURAH": "51",
+    "AYAH": "11",
+    "ARABIC_TEXT": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+    "TRANSLATION": "Những kẻ mà chúng không quan tâm và nghĩ đến cuộc sống cõi Đời Sau.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4687",
+    "SURAH": "51",
+    "AYAH": "12",
+    "ARABIC_TEXT": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+    "TRANSLATION": "Chúng hỏi bao giờ Ngày Thưởng Phạt sẽ đến ý muốn phủ nhận.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4688",
+    "SURAH": "51",
+    "AYAH": "13",
+    "ARABIC_TEXT": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+    "TRANSLATION": "Allah trả lời cho câu hỏi của chúng: Đó là Ngày mà chúng sẽ bị trừng phạt trên Lửa.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4689",
+    "SURAH": "51",
+    "AYAH": "14",
+    "ARABIC_TEXT": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+    "TRANSLATION": "Rồi đây sẽ có lời bảo chúng: Các ngươi hãy nếm mùi của sự trừng phạt dành cho các ngươi. Đây là cái mà các ngươi cứ thường hối thúc nó mau đến bằng những câu hỏi chế giễu khi các ngươi được cảnh báo.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4690",
+    "SURAH": "51",
+    "AYAH": "15",
+    "ARABIC_TEXT": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَعُيُونٍ",
+    "TRANSLATION": "Quả thật những người kính sợ Thượng Đế của họ qua việc chấp hành các mệnh lệnh của Ngài và tránh xa những điều Ngài nghiêm cấm, vào Ngày Phán Xét, sẽ được ở trong các Ngôi Vườn bên những con suối chảy nơi Thiên Đàng.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4691",
+    "SURAH": "51",
+    "AYAH": "16",
+    "ARABIC_TEXT": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+    "TRANSLATION": "Họ sẽ thụ hưởng những gì mà Thượng Đế của họ ban thưởng cho họ. Quả thật, trên thế gian họ đã làm tốt và đó là phần thưởng dành cho họ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4692",
+    "SURAH": "51",
+    "AYAH": "17",
+    "ARABIC_TEXT": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+    "TRANSLATION": "Họ thường dâng lễ nguyện Salah trong đêm, họ chỉ ngủ một chút ít trong đêm.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4693",
+    "SURAH": "51",
+    "AYAH": "18",
+    "ARABIC_TEXT": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+    "TRANSLATION": "Và vào khoảng thời gian cuối của đêm trước lễ nguyện Salah Fajr, họ thường cầu xin Allah tha thứ cho tội lỗi của họ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4694",
+    "SURAH": "51",
+    "AYAH": "19",
+    "ARABIC_TEXT": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+    "TRANSLATION": "Họ luôn trích một phần trong tài sản của họ như một nghĩa vụ bắt buộc dành cho những người ăn xin trong thiên hạ cũng như những người túng thiếu nhưng không xin xỏ thiên hạ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4695",
+    "SURAH": "51",
+    "AYAH": "20",
+    "ARABIC_TEXT": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+    "TRANSLATION": "Và trên trái đất, nơi mà Allah đã đặt lên đó núi non, biển cả, sông ngòi, cây cối, động vật, là những bằng chứng về quyền năng của Allah cho những người có đức tin kiên định rằng Allah là Đấng Tạo Hóa.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4696",
+    "SURAH": "51",
+    "AYAH": "21",
+    "ARABIC_TEXT": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+    "TRANSLATION": "Hỡi những nhân loại, các bằng chứng về quyền năng của Allah có cả trong bản thân của các ngươi, thế các ngươi không nhìn thấy và suy ngẫm ư?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4697",
+    "SURAH": "51",
+    "AYAH": "22",
+    "ARABIC_TEXT": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+    "TRANSLATION": "Và trên bầu trời có những nguồn bổng lộc cho cuộc sống thế tục và cho tôn giáo của các ngươi, và còn có những thứ mà các ngươi đã được hứa từ điều xấu và điều tốt.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4698",
+    "SURAH": "51",
+    "AYAH": "23",
+    "ARABIC_TEXT": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+    "TRANSLATION": "Do vậy, thề bởi Thượng Đế của bầu trời và trái đất, quả thật sự Phục Sinh là sự thật, nó chắc chắn sẽ xảy ra, không phải nghi ngờ gì về việc đó, giống như không có sự nghi ngờ trong lời nói của các ngươi khi các ngươi nói chuyện.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4699",
+    "SURAH": "51",
+    "AYAH": "24",
+    "ARABIC_TEXT": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+    "TRANSLATION": "Ngươi, hỡi Thiên Sứ có nhận được thông tin về nhóm khách đã viếng thăm Ibrahim (Ap-ra-ham) không? Họ là những Thiên Thần cao quí.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4700",
+    "SURAH": "51",
+    "AYAH": "25",
+    "ARABIC_TEXT": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
+    "TRANSLATION": "Khi họ (các Thiên Thần) vào nhà Ibrahim, họ đã chào Salam và Ibrahim đáp lại lời Salam. Ibrahim đã nói trong lòng: những người này lạ quá, mình không biết họ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4701",
+    "SURAH": "51",
+    "AYAH": "26",
+    "ARABIC_TEXT": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+    "TRANSLATION": "Sau đó, Ibrahim lặng lẽ vào gặp người nhà rồi mang ra một con bò non mập béo để tiếp đãi các vị khách vì nghĩ rằng họ người phàm tục.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4702",
+    "SURAH": "51",
+    "AYAH": "27",
+    "ARABIC_TEXT": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+    "TRANSLATION": "Ibrahim mang con bò ra tiếp đãi họ (nhưng họ không ăn) nên Ibrahim nói: sao quí ngài không ăn?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4703",
+    "SURAH": "51",
+    "AYAH": "28",
+    "ARABIC_TEXT": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+    "TRANSLATION": "Khi thấy họ không ăn, Ibrahim lo sợ trong lòng. Các Thiên Thần trấn an: Ngươi đừng sợ, chúng tôi là các Sứ Giả được Allah cử đến. Rồi họ báo tin vui cho Ibrahim về đứa con trai hiểu biết mà Allah sẽ ban cho Y, đó là Is-haq.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4704",
+    "SURAH": "51",
+    "AYAH": "29",
+    "ARABIC_TEXT": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+    "TRANSLATION": "Khi nghe báo tin, vợ Ibrahim bước lên và lớn tiếng trong sự vui mừng thốt lên một lời lẽ ngạc nhiên: một bà lão già nua và hiếm muộn sẽ sinh con ư?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4705",
+    "SURAH": "51",
+    "AYAH": "30",
+    "ARABIC_TEXT": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+    "TRANSLATION": "Các Thiên Thần nói với vợ Ibrahim: Những gì chúng tôi thông báo cho bà ta là những gì mà Thượng Đế của bà ta đã phán, và những gì Ngài đã phán là chắc chắn. Quả thật Ngài là Đấng Sáng Suốt trong việc tạo hóa và định đoạt, và Ngài là Đấng Hằng Biết điều gì cải thiện cho đám bề tôi của Ngài.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4706",
+    "SURAH": "51",
+    "AYAH": "31",
+    "ARABIC_TEXT": "۞ قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+    "TRANSLATION": "Ibrahim hỏi các Thiên Thần: Các ngài có nhiệm vụ gì? Các ngài đến đây với mục đích gì?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4707",
+    "SURAH": "51",
+    "AYAH": "32",
+    "ARABIC_TEXT": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+    "TRANSLATION": "Các Thiên Thần đáp: Allah cử phái chúng tôi đến với đám người tội lỗi làm những điều thối nát.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4708",
+    "SURAH": "51",
+    "AYAH": "33",
+    "ARABIC_TEXT": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+    "TRANSLATION": "Để đổ lên họ trận mưa đá bằng đất nung.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4709",
+    "SURAH": "51",
+    "AYAH": "34",
+    "ARABIC_TEXT": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+    "TRANSLATION": "Đã được Thượng Đế của Ngươi - hỡi Ibrahim - giáng xuống trừng phạt đám người vượt quá giới luật của Allah về sự vô đức tin và tội lỗi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4710",
+    "SURAH": "51",
+    "AYAH": "35",
+    "ARABIC_TEXT": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+    "TRANSLATION": "Bọn ta cứu những người có đức tin bình an rời khỏi ngôi làng của Lut, họ không bị trừng phạt cùng những đám người tội lỗi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4711",
+    "SURAH": "51",
+    "AYAH": "36",
+    "ARABIC_TEXT": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+    "TRANSLATION": "Tiếc là bọn ta chỉ tìm thấy một gia đình Muslim duy nhất, đó là gia đình của Nabi Lut.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4712",
+    "SURAH": "51",
+    "AYAH": "37",
+    "ARABIC_TEXT": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+    "TRANSLATION": "Và TA (Allah) đã bỏ lại ngôi làng mà dân chúng của Lut đã ở dấu hiệu của hình phạt, chứng minh hình phạt đã giáng lên họ để làm bài học cho những ai biết sợ hình phạt kinh hoàng đã giáng lên dân chúng nơi đó để họ không làm những hành động mà dân chúng đó đã làm.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4713",
+    "SURAH": "51",
+    "AYAH": "38",
+    "ARABIC_TEXT": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+    "TRANSLATION": "Và Musa, TA đã cử phái Y đến gặp Fir'awn với các bằng chứng rõ ràng, dấu hiệu đó dành cho người biết khiếp sợ về hình phạt đau đớn.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4714",
+    "SURAH": "51",
+    "AYAH": "39",
+    "ARABIC_TEXT": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+    "TRANSLATION": "Fir'awn dựa vào sức mạnh và quân lực đã phủ nhận chân lý, hắn nói về Musa: Đây là tên phù thủy chuyên mê hoặc thiên hạ hoặc là tên thần kinh không kiểm soát được mình đang nói gì.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4715",
+    "SURAH": "51",
+    "AYAH": "40",
+    "ARABIC_TEXT": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+    "TRANSLATION": "Thế là TA đã túm bắt lấy hắn và đám thuộc hạ của hắn, ném tất cả chúng xuống biển cho chúng chết chìm, và Fir'awn là tên đáng bị khiển trách vì ngông cuồng tự xưng là thượng đế.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4716",
+    "SURAH": "51",
+    "AYAH": "41",
+    "ARABIC_TEXT": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+    "TRANSLATION": "Và về 'Ad dân chúng của Hud là bài học cho ai biết lo sợ về hình phạt đau đớn khi TA gởi đến họ một cơn giông tố, không mang mưa đến, không giúp cây thụ phấn được cũng không mang đến bất cứ điều tốt nào.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4717",
+    "SURAH": "51",
+    "AYAH": "42",
+    "ARABIC_TEXT": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+    "TRANSLATION": "Nó không chừa lại bất cứ thứ gì, con người, tài sản hay những thứ gì khác, mỗi khi nó đi qua.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4718",
+    "SURAH": "51",
+    "AYAH": "43",
+    "ARABIC_TEXT": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+    "TRANSLATION": "Và về Thamud, dân chúng của Saleh, là một bài học dành cho những ai biết lo sợ về hình phạt đau đớn, khi có lời bảo họ: Các ngươi hãy tận dụng cuộc đời mình làm điều hữu ích trước khi hết tuổi thọ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4719",
+    "SURAH": "51",
+    "AYAH": "44",
+    "ARABIC_TEXT": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+    "TRANSLATION": "Nhưng họ đã ngông cuồng kháng lại lệnh của Thượng Đế của họ, thể hiện sự tự cao, vô đức tin và bất tuân, thế là họ đã bị lưỡi tầm sét giáng xuống trong lúc họ chỉ biết trố mắt ra nhìn một cách bất lực. Bởi trước đó ba ngày họ được cho biết rằng sự trừng phạt sẽ đến.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4720",
+    "SURAH": "51",
+    "AYAH": "45",
+    "ARABIC_TEXT": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+    "TRANSLATION": "Dù đã biết trước hình phạt sắp đến nhưng họ vẫn bất lực tránh khỏi hình phạt, cũng như không đủ sức mạnh ngăn cản hình phạt đang dần đến hủy diệt họ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4721",
+    "SURAH": "51",
+    "AYAH": "46",
+    "ARABIC_TEXT": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+    "TRANSLATION": "Và TA cũng đã tiêu diệt cộng đồng của Nuh bằng trận Đại Hồng Thủy trước đám người đã được nhắc trên đây. Quả thật, chúng là đám người không biết tuân lệnh Allah và chúng đáng bị trừng phạt.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4722",
+    "SURAH": "51",
+    "AYAH": "47",
+    "ARABIC_TEXT": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+    "TRANSLATION": "Và bầu trời do TA tạo dựng nó, TA trang hoàng nó được chỉnh chu bằng sức mạnh và TA kéo dãn nó ra rộng bao la.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4723",
+    "SURAH": "51",
+    "AYAH": "48",
+    "ARABIC_TEXT": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+    "TRANSLATION": "Và mặt đất được TA trải bằng phẳng cho cư dân trú ngụ tựa như chiếc thảm, thật hồng phúc thay cho việc trải rộng đó.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4724",
+    "SURAH": "51",
+    "AYAH": "49",
+    "ARABIC_TEXT": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+    "TRANSLATION": "Và tất cả mọi thứ TA đều tạo ra theo từng cặp như: bầu trời và trái đất, đại dương và đất liền mong rằng các ngươi biết tin tưởng vào Allah duy nhất, Đấng đã tạo ra mọi thứ đều có cặp đôi cũng như mong rằng các ngươi biết ghi nhớ quyền năng của Ngài.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4725",
+    "SURAH": "51",
+    "AYAH": "50",
+    "ARABIC_TEXT": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "TRANSLATION": "Vì vậy các ngươi hãy chạy khỏi hình phạt của Allah để đến với phần thưởng của Ngài, các ngươi hãy phục tùng Ngài, các ngươi chớ đừng bất tuân Ngài, quả thật, Ta đối với các ngươi - hỡi nhân loại - chỉ là người cảnh báo về hình phạt của Ngài mà thôi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4726",
+    "SURAH": "51",
+    "AYAH": "51",
+    "ARABIC_TEXT": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "TRANSLATION": "Và các ngươi đừng có tạo dựng cùng với Allah một thần linh để thờ phượng thay vì thờ Ngài duy nhất, quả thật, Ta đối với các ngươi chỉ là người công khai cảnh báo các ngươi về hình phạt của Ngài mà thôi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4727",
+    "SURAH": "51",
+    "AYAH": "52",
+    "ARABIC_TEXT": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+    "TRANSLATION": "Các thế hệ trước đây cũng phủ nhận sứ mạng của Thiên Sứ giống như thị dân Makkah vậy, bất cứ Thiên Sứ nào được Allah phái đến gặp họ đều bị họ bảo là tên phù thủy hoặc là thằng điên.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4728",
+    "SURAH": "51",
+    "AYAH": "53",
+    "ARABIC_TEXT": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+    "TRANSLATION": "Hay là các thế hệ trước truyền di chúc lại cho thế hệ sau là phải phủ nhận Thiên Sứ thì phải? Không, đúng hơn tất cả bọn chúng là đám người ngông cuồng quá mức.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4729",
+    "SURAH": "51",
+    "AYAH": "54",
+    "ARABIC_TEXT": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+    "TRANSLATION": "Do vậy, Ngươi - hỡi Thiên Sứ - hãy lánh xa những kẻ phủ nhận đó đi. Ngươi không bị khiển trách gì đâu, bởi Ngươi đã truyền đạt hết thông tin mà Ngươi đã nhận.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4730",
+    "SURAH": "51",
+    "AYAH": "55",
+    "ARABIC_TEXT": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+    "TRANSLATION": "Và không cấm Ngươi nhắc nhở họ, Ngươi hãy khuyên bảo họ bởi quả thật lời nhắc nhở rất hữu dụng đối với tín đồ có đức tin nơi Allah.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4731",
+    "SURAH": "51",
+    "AYAH": "56",
+    "ARABIC_TEXT": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+    "TRANSLATION": "Và TA đã tạo ra loài Jinn và loài người chỉ với mục đích để chúng thờ phượng TA duy nhất, chứ không phải để chúng tổ hợp cùng với TA.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4732",
+    "SURAH": "51",
+    "AYAH": "57",
+    "ARABIC_TEXT": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+    "TRANSLATION": "TA không cần họ ban bổng lộc hay nuôi ăn TA.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4733",
+    "SURAH": "51",
+    "AYAH": "58",
+    "ARABIC_TEXT": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+    "TRANSLATION": "Quả thật, Allah là Đấng cung cấp bổng lộc cho đám nô lệ của Ngài, tất cả vạn vật đều cần đến bổng lộc của Ngài để sống, Đấng có sức mạnh tuyệt đối không thế lực nào thắng được Ngài, tất cả loài Jinn và loài người đều hạ mình phủ phục trước sức mạnh của Ngài Toàn Năng.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4734",
+    "SURAH": "51",
+    "AYAH": "59",
+    "ARABIC_TEXT": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+    "TRANSLATION": "Đối với đám người tự bất công với bản thân họ bằng cách phủ nhận sứ mạng của Ngươi - hỡi Thiên Sứ - họ sẽ bị trừng phạt giống như đám người của những thế hệ trước đây, họ sẽ có một giới hạn nhất định, thế nên họ đừng vội vàng thúc giục TA ban hình phạt đến với họ sớm hơn thời gian đã định.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4735",
+    "SURAH": "51",
+    "AYAH": "60",
+    "ARABIC_TEXT": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+    "TRANSLATION": "Đáng bị tiêu diệt và bị thất bại đối với đám người phủ nhận đức tin nơi Allah và bác bỏ sứ mạng của Thiên Sứ của Ngài, những người mà họ đã được hứa hẹn về một sự trừng phạt giáng lên họ trong Ngày Tận Thế.",
+    "FOOTNOTES": ""
+  }
+]
