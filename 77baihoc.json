@@ -1,0 +1,26 @@
+{
+  "surah": 77,
+  "name": "Al-Mursalaat",
+  "name_vi": "Al-Mursalaat",
+  "objectives": "Cảnh báo đám người phủ nhận đức tin về sự khốn khổ của Ngày Phục Sinh",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 19,
+      "benefits": [
+        "* Sư nguy hiểm cho việc chỉ quan tâm đến cuộc sống cõi trần mà quên mất đi cuộc sống Đời Sau.",
+        "* Ý muốn của người bề tôi theo sau ý muốn của Allah.",
+        "* Việc hủy diệt các cộng đồng vô đức tin là đường lối của Thượng Đế (Allah)."
+      ]
+    },
+    {
+      "ayah_from": 20,
+      "ayah_to": 50,
+      "benefits": [
+        "* Sự trông nom của Allah dành cho con người khi y đang còn trong bụng mẹ.",
+        "* Trái đất luôn đủ rộng cho những người sống trên bề mặt của Nó và cho những người đã chết trong lòng của Nó.",
+        "* Sự nguy hại của việc phủ nhận các lời phán của Allah và một sự đe dọa dữ dội đối với những ai làm điều đó."
+      ]
+    }
+  ]
+}

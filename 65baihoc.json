@@ -1,0 +1,27 @@
+{
+  "surah": 65,
+  "name": "At-Talaaq",
+  "name_vi": "At-Talaaq",
+  "objectives": "Trình bày về giáo luật li hôn, tôn trọng các giới luật của Ngài và thành quả của lòng kính sợ",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 5,
+      "benefits": [
+        "* Khi truyền lệnh cho Nabi cũng là truyền lệnh cho toàn thể tín đồ của cộng đồng của Người trừ phi có mệnh lệnh riêng.",
+        "* Bắt buộc phải nuôi ăn và nuôi ở đối với những người vợ vẫn còn cơ hội trở lại sống chung với chồng sau khi bị chồng li thân một hoặc hai lần.",
+        "* Khuyến khích làm chứng cho những vấn đề dễ gây tranh cãi.",
+        "* Lòng Taqwa (kính sợ Allah) mang lại rất nhiều thành quả mỹ mãn."
+      ]
+    },
+    {
+      "ayah_from": 6,
+      "ayah_to": 12,
+      "benefits": [
+        "* Không bắt buộc phụ nữ phải cho con bú sau khi bị chồng li hôn.",
+        "* Mỗi người chỉ có nghĩa vụ theo khả năng có thể của mình.",
+        "* Đức tin vào quyền năng của Allah và kiến thức bao trùm vạn vật của Ngài là nguyên nhân khiến con tim được hài lòng và an nhiên."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "surah": 83,
+  "name": "Al-Mutaffifin",
+  "name_vi": "Al-Mutaffifin",
+  "objectives": "Cảnh báo những kẻ phủ nhận sai quấy về Ngày Phục Sinh và báo tin mừng cho những người có đức tin về Ngày Phục Sinh đó",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 4,
+      "benefits": [
+        "* Cảnh báo về hành động gian lận sẽ ngăn cản việc đi theo Chân Lý.",
+        "* Tham lam là bản tính xấu trong thương mại, không ai tránh khỏi nó ngoại trừ những ai biết sợ Allah.",
+        "* Nghĩ đến hoàn cảnh của Ngày Tận Thế là cách mạnh mẽ nhất để chấm dứt tội lỗi."
+      ]
+    },
+    {
+      "ayah_from": 5,
+      "ayah_to": 33,
+      "benefits": [
+        "* Những tội lỗi nguy hiểm nằm ở con tim.",
+        "* Người vô đức tin bị cấm nhìn Allah vào Ngày Tận Thế.",
+        "* Nhạo báng người ngoan đạo là bản tính của người vô đức tin."
+      ]
+    },
+    {
+      "ayah_from": 34,
+      "ayah_to": 36,
+      "benefits": [
+        "* Trời và đất luôn phủ phục trước Thượng Đế.",
+        "* Tất cả mỗi người đều có hành động tốt hoặc xấu.",
+        "* Dấu hiệu hạnh phúc trong Ngày Tận Thế là được nhận sổ ghi chép từ tay phải và dấu hiệu bất hạnh là nhận lấy bằng tay trái."
+      ]
+    }
+  ]
+}

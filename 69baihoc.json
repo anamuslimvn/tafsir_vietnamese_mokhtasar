@@ -1,0 +1,35 @@
+{
+  "surah": 69,
+  "name": "Al-Haaqqa",
+  "name_vi": "Al-Haaqqa",
+  "objectives": "Xác định việc Phục sinh và việc Thưởng phạt là sự thật, không gì phải nghi ngờ",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 8,
+      "benefits": [
+        "* Kiên nhẫn là đức tính đáng ca ngợi cần có đối với người tuyên truyền kêu gọi và đối với những ai khác cũng vậy.",
+        "Sự sám hối xóa bỏ những gì trước đó và nó là một trong những nguyên nhân mà Allah dùng để thanh lọc người bề tôi và làm cho y trở thành người bề tôi ngoan đạo.",
+        "* Việc Allah trừng phạt những kẻ vô đức tin và bất tuân Ngài bằng những hình phạt đa dạng khác nhau là bằng chứng nói lên quyền năng và sự công bằng của Ngài."
+      ]
+    },
+    {
+      "ayah_from": 9,
+      "ayah_to": 35,
+      "benefits": [
+        "* Ân huệ được ban cho người cha là ân huệ được ban cho con cần phải được tri ân.",
+        "* Nuôi ăn người nghèo và thúc giục người khác làm việc đó là một trong những nguyên nhân tránh khỏi Hỏa Ngục.",
+        "* Sự dữ dội và khắc nghiệt của sự trừng phạt vào Ngày Phục Sinh phải cần được tránh bằng đức tin Iman và việc làm ngoan đạo."
+      ]
+    },
+    {
+      "ayah_from": 36,
+      "ayah_to": 52,
+      "benefits": [
+        "* Khẳng định Qur'an không phải là thơ ca cũng không phải là lời bói toán.",
+        "* Sự nguy hiểm cho việc bịa đặt lời phán của Allah cũng như nói dối rồi đổ thừa cho Ngài.",
+        "* Sự kiên nhẫn tốt đẹp xứng đáng nhận được ân phước từ nơi Allah là sự kiên nhẫn không than phiến với một ai."
+      ]
+    }
+  ]
+}

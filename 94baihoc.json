@@ -1,0 +1,28 @@
+{
+  "surah": 94,
+  "name": "Ash-Sharh",
+  "name_vi": "Ash-Sharh",
+  "objectives": "Phúc lành cho Nabi bởi những ân huệ tinh thần hoàn hảo",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 2,
+      "benefits": [
+        "* Nabi có vị trí gần nhất với Allah, không còn vị trí nào gần hơn nữa.",
+        "* Tạ ơn về ân huệ đã ban là bổn phận của con người đối với Allah.",
+        "* Bắt buộc phải nhân từ với người yếu thế và nhẹ nhàng với họ."
+      ]
+    },
+    {
+      "ayah_from": 3,
+      "ayah_to": 8,
+      "benefits": [
+        "Allah Tối Cao tôn vinh vị Nabi của Ngài bằng việc nâng cao danh dự của Người",
+        "Sự hài lòng của Allah là mục tiêu cuối cùng.",
+        "Tầm quan trọng của việc đọc và viết trong Islam.",
+        "Mối hiểm họa của giàu sang khi nó đẩy con người đến sự tự cao và xa lánh chân lý.",
+        "Ngăn cản điều thiện, điều tốt đẹp là thuộc tính của sự vô đức tin."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "surah": 98,
+  "name": "Al-Bayyina",
+  "name_vi": "Al-Bayyina",
+  "objectives": "Trình bày về sự hoàn hảo và rõ ràng của thông điệp của Muhammad",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 5,
+      "benefits": [
+        "* Đêm định mệnh hồng phúc hơn tất cả các đêm của năm.",
+        "* Ikhlas tức thành tâm trong thờ phượng là điều kiện phải có để việc hành đạo được chấp nhận.",
+        "* Tất cả bộ luật đều có chung lời kêu gọi chấp nhận Bức Thông Điệp."
+      ]
+    },
+    {
+      "ayah_from": 6,
+      "ayah_to": 8,
+      "benefits": [
+        "* Người ngoại đạo là tạo vật xấu xa nhất, và người có đức tin là tạo vật tốt đẹp nhất.",
+        "* Biết sợ Allah là nguyên nhân khiến người nô lệ được Allah hài lòng.",
+        "* Trái đất làm chứng cho việc làm của con người."
+      ]
+    }
+  ]
+}

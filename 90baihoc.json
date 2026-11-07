@@ -1,0 +1,27 @@
+{
+  "surah": 90,
+  "name": "Al-Balad",
+  "name_vi": "Al-Balad",
+  "objectives": "Trình bày về sự nghèo đói của con người, sự cùng cực của y và con đường giải thoát",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 18,
+      "benefits": [
+        "* Phóng thích nô lệ, nuôi ăn người khó khăn lúc cơ hàn, tin tưởng nơi Allah, khuyên bảo nhau nhẫn nại và nhân từ là những lý do được vào Thiên Đàng.",
+        "* Trong những bằng chứng về sứ mạng là Thiên Sứ cho biết về thời khắc trong ngày được phép tự do tại Makkah.",
+        "* Khi Allah thu hẹp con đường bổng lộc và mở rộng con đường phóng thích nô lệ và xem việc phóng thích nô lệ là hình thức hành đạo và xóa tội."
+      ]
+    },
+    {
+      "ayah_from": 19,
+      "ayah_to": 20,
+      "benefits": [
+        "* Tầm quan trọng của việc giữ bản thân trong sạch.",
+        "* Giúp đỡ nhau làm điều tội thì cả nhóm đồng tội.",
+        "* Tội lỗi là nguyên nhân bị trừng phạt ở trần gian.",
+        "* Tất cả mỗi người điều được tạo cho sự dễ dàng (để đạt mục tiêu) nhưng một số tuân lệnh và một số bất tuân."
+      ]
+    }
+  ]
+}

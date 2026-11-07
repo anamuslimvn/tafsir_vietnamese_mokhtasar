@@ -1,0 +1,26 @@
+{
+  "surah": 78,
+  "name": "An-Naba",
+  "name_vi": "An-Naba",
+  "objectives": "Trình bày các bằng chứng về khả năng Phục sinh và đe doạ về cảnh tượng kinh hoàng của sự trừng phạt",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 30,
+      "benefits": [
+        "* Các giáo lý của Allah áp đặt cho tạo hóa chứng minh việc Ngài toàn năng phục sinh.",
+        "* Vượt quá mức giới hạn là nguyên nhân sa vào Hỏa Ngục.",
+        "* Người phủ nhận đức tin sẽ chịu hình phạt đau đớn."
+      ]
+    },
+    {
+      "ayah_from": 31,
+      "ayah_to": 40,
+      "benefits": [
+        "* Lòng Taqwa (kính sợ Allah) là lý do được vào Thiên Đàng.",
+        "* Nhắc về những sự kiện Tận Thế thôi thúc năng làm việc ngoan đạo.",
+        "* Linh hồn người không có đức tin bị giật mạnh khi chết và linh hồn người có đức tin được rút nhẹ nhàng khi chết."
+      ]
+    }
+  ]
+}

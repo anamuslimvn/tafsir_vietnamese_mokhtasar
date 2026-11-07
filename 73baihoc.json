@@ -1,0 +1,27 @@
+{
+  "surah": 73,
+  "name": "Al-Muzzammil",
+  "name_vi": "Al-Muzzammil",
+  "objectives": "Trình bày các nguyên nhân hỗ trợ trong việc thực hiện trọng trách truyền bá",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 19,
+      "benefits": [
+        "* Tầm quan trọng của việc dâng lễ nguyện Salah trong đêm, đọc Qur'an, tụng niệm Allah, và kiên nhẫn chịu đựng trên con đường kêu gọi đến với Allah.",
+        "* Trái tim trống rỗng trong đêm (gác bỏ mọi thứ của đời sống thế tục qua một bên) mà chuyên tâm thờ phượng Allah sẽ tác động tích cực đến sự thông hiểu và ghi nhớ.",
+        "* Gánh vác trách nhiệm đòi hỏi một sự giáo dục nghiêm ngặt.",
+        "* Phú quý giàu sang thường ngăn cản con đường chính nghĩa của Allah."
+      ]
+    },
+    {
+      "ayah_from": 20,
+      "ayah_to": 20,
+      "benefits": [
+        "* Sự khó khăn sẽ mang lại điều thuận lợi.",
+        "* Bắt buộc phải tẩy sạch bản thân khỏi những thứ dơ bẩn bên ngoài lẫn bên trong.",
+        "* Việc ban nhiều ân huệ cho những kẻ tội lỗi không phải là quý mến họ mà là muốn dẫn họ càng lún sâu hơn trong tội lỗi."
+      ]
+    }
+  ]
+}

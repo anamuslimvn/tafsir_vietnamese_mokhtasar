@@ -1,0 +1,35 @@
+{
+  "surah": 53,
+  "name": "An-Najm",
+  "name_vi": "An-Najm",
+  "objectives": "Khẳng định sự thật của sự mặc khải và rằng nó đến từ Allah",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 26,
+      "benefits": [
+        "* Sự lễ phép hoàn hảo của Thiên Sứ khi Người không đảo mắt nhìn quanh lúc đang ở tầng trời thứ bảy.",
+        "* Sự ngu muội của người đa thần khi tôn thờ những vật thể không có lợi cũng chẳng có hại, và việc họ gán ghép cho Allah thứ họ không thích và tự lựa cho bản thân điều họ yêu thích.",
+        "* Quyền biện hộ chỉ xảy ra khi có đủ hai điều kiện: người biện hộ được cho phép và người hưởng sự biện hộ được hài lòng."
+      ]
+    },
+    {
+      "ayah_from": 27,
+      "ayah_to": 44,
+      "benefits": [
+        "* Tội lỗi được chia thành đại tội và tiểu tội.",
+        "* Hiểm họa cho việc nói về Allah mà không có kiến thức về điều đang nói.",
+        "* Việc tự đề cao bản thân là bị cấm."
+      ]
+    },
+    {
+      "ayah_from": 45,
+      "ayah_to": 62,
+      "benefits": [
+        "* Khi không bị Qur'an tác động, đó là dấu hiệu xấu.",
+        "* Hiểm họa khôn lường cho việc làm theo dục vọng trong cuộc sống trần gian và Đời Sau.",
+        "* Không biết rung sợ về kết cuộc bị tiêu diệt của các cộng đồng trước là đức tín của người vô đức tin."
+      ]
+    }
+  ]
+}

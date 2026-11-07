@@ -1,0 +1,26 @@
+{
+  "surah": 88,
+  "name": "Al-Ghaashiya",
+  "name_vi": "Al-Ghaashiya",
+  "objectives": "Nhắc nhở về Đời Sau và sự thưởng phạt, đồng thời xem xét bằng chứng về quyền năng của Allah",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 22,
+      "benefits": [
+        "* Tầm quan trọng của việc luôn giữ mình sạch sẽ khỏi mọi điều xấu làm bẩn cơ thể lẫn tấm lòng.",
+        "* Sự tồn tại của tạo vật khẳng định sự tồn tại của Đấng Tạo Hóa.",
+        "* Vai trò lớn nhất của người truyền giáo Islam là truyền đạt, còn việc hướng dẫn ai đó đến với chân lý nằm trong tay của Allah."
+      ]
+    },
+    {
+      "ayah_from": 23,
+      "ayah_to": 26,
+      "benefits": [
+        "* Giá trị mười ngày đầu của tháng Zdul Hijjah hơn các ngày trong năm.",
+        "* Khẳng định việc Allah xuất hiện trong Ngày Tận Thế phù hợp với địa vị của Ngài, không được phân tích, không được so sánh, không được suy diễn.",
+        "* Người có đức tin khi bị thử thách thì hãy kiên nhẫn và khi được ban phát ân huệ thì hãy biết tri ân."
+      ]
+    }
+  ]
+}

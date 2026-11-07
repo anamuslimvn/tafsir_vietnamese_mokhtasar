@@ -1,0 +1,35 @@
+{
+  "surah": 50,
+  "name": "Qaaf",
+  "name_vi": "Qaaf",
+  "objectives": "Nhắc nhở con tim về cái chết và sự phục sinh",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 15,
+      "benefits": [
+        "Những kẻ thờ đã thần tự cao tự đại không chịu chấp nhận sứ mạng Nabi từ con người phàm tục nhưng lại gán cho cục đá những thuộc tính của Thượng Đế.",
+        "Việc tạo hóa các tầng trời, trái đất, ban mưa xuống, làm mọc ra cây cối, và sự tạo hóa ban đầu: tất cả là bằng chứng cho việc Allah toàn năng trong việc phục sinh.",
+        "Phủ nhận các vị Thiên Sứ là thói quen của các cộng đồng trước và sự trừng phạt đối với những kẻ phủ nhận là đường lối của Thượng Đế."
+      ]
+    },
+    {
+      "ayah_from": 16,
+      "ayah_to": 35,
+      "benefits": [
+        "Allah biết rõ những gì nguy hại cũng như những gì tốt cho các linh hồn.",
+        "Sự nguy hại của việc vô tâm và xao lãng về cõi Đời Sau.",
+        "Khẳng định thuộc tính công bằng tuyệt đối của Allah, Đấng Tối Cao."
+      ]
+    },
+    {
+      "ayah_from": 36,
+      "ayah_to": 45,
+      "benefits": [
+        "Bài học từ các sự kiện đã xảy ra trong lịch sử là việc của những người có trái tim biết nhận thức.",
+        "Allah tạo hóa vũ trụ trong sáu ngày mang một ý nghĩa và giá trị mà chỉ có Ngài mới biết rõ, trong đó, có thể là sự hướng dẫn \"phương châm từng bước\" trong các sự việc.",
+        "Sự vô lễ của những người Do Thái khi họ mô tả Allah rằng Ngài mệt mỏi sau khi tạo hóa các tầng trời và trái đất. Đó là điều vô đức tin nơi Allah."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "surah": 61,
+  "name": "As-Saff",
+  "name_vi": "As-Saff",
+  "objectives": "Kêu gọi những người có đức tin ủng hộ tôn giáo Islam",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 5,
+      "benefits": [
+        "* Islam bắt buộc phải cam kết phục tùng lãnh đạo, phải nghe và tuân thủ trong khuôn khổ kính sợ Allah.",
+        "* Lời nói phải gắn liền với hành động.",
+        "* Allah trình bày rõ ràng cho con người con đường tốt và xấu, khi ai đó tự chọn con đường lệch lạc và tội lỗi và không chịu ăn năn sám hối, chắc chắn sẽ bị Allah thanh toán với y cho sự lệch lạch đó."
+      ]
+    },
+    {
+      "ayah_from": 6,
+      "ayah_to": 14,
+      "benefits": [
+        "* Các bức Thông Điệp trước đều đã báo trước về sự xuất hiện của Nabi Muhammad (cầu xin Allah ban sự bình an đến Người), điều này khẳng định tính trung thực về sứ mạng Nabi của Người.",
+        "* Sự ổn định của tôn giáo là theo đúng đường lối của Thượng Đế.",
+        "* Đức tin Iman và Jihad vì chính nghĩa của Allah là hai trong những lý do được vào Thiên Đàng.",
+        "* Đôi khi Allah ban thưởng cho những người có đức tin ngay trên cuộc sống trần gian và đôi khi Ngài để dành cho họ ở Đời Sau, tuy nhiên, Ngài không bao giờ bội lời - thật Vinh Quang thay Ngài!-."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "surah": 47,
+  "name": "Muhammad",
+  "name_vi": "Muhammad",
+  "objectives": "Khuyến khích những người có đức tin chiến đấu để củng cố sức mạnh và làm suy yếu những kẻ vô đức tin.",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 11,
+      "benefits": [
+        "* Khả năng giết kẻ thù là phương tiện tốt nhất để chinh phục y.",
+        "* Trả tự do, đòi tiền chuộc mạng, giết hay bắt làm nô lệ là những tùy chọn của Islam trong việc đối xử với những tù binh ngoại đạo. Islam cho phép lựa chọn một trong những cách xử trí đó nhằm mục đích cải thiện lợi ích của Islam.",
+        "* Tôn vinh ân phúc của việc hy sinh cho con đường chính nghĩa của Allah.",
+        "* Sự trợ giúp của Allah dành cho những người có đức tin được kèm theo điều kiện rằng họ phải giúp tôn giáo của Ngài."
+      ]
+    },
+    {
+      "ayah_from": 12,
+      "ayah_to": 19,
+      "benefits": [
+        "Những kẻ vô đức tin chỉ quan tâm sự hưởng thụ tạm bợ trên cõi trần.",
+        "Trình bày phần thưởng dành cho những người có đức tin và hình phạt dành cho những kẻ vô đức tin để người có trí khôn sáng suốt chọn trở thành người có đức tin còn người ngu đần chọn trở thành người vô đức tin.",
+        "Trình bày mặt xấu xa của những kẻ giả tạo đức tin đối với Thiên Sứ Muhammad.",
+        "Kiến thức hiểu biết trước lời nói và hành động."
+      ]
+    },
+    {
+      "ayah_from": 20,
+      "ayah_to": 29,
+      "benefits": [
+        "Việc ban hành việc chiến đấu cho con đường chính nghĩa của Allah sẽ phân biệt được giữa những kẻ giả tạo đức tin trong hàng ngũ những người có đức tin.",
+        "Tầm quan trọng của việc suy ngẫm về Qur'an và sự nguy hại của việc quay lưng với Nó.",
+        "Gây điều thối nát trên trái đất và cắt đứt tình máu mủ ruột thịt là một trong những nguyên nhân ít được Allah phù hộ cũng như bị Ngài đuổi đi xa khỏi lòng thương xót của Ngài."
+      ]
+    },
+    {
+      "ayah_from": 30,
+      "ayah_to": 38,
+      "benefits": [
+        "Những bí mật và điều xấu của những kẻ giả tạo đức tin được biểu hiện trên gương mặt và phong cách nói năng của họ.",
+        "Kiểm tra là đường lối của Allah để phân biệt những người có đức tin với những kẻ giả tạo đức tin.",
+        "Sự giúp đỡ và phù hộ của Allah dành cho những bề tôi có đức tin của Ngài.",
+        "Một trong những biểu hiện lòng thương xót của Allah dành cho đám bề tôi của Ngài là Ngài không đòi họ chỉ dùng toàn bộ tài sản cho con đường chính nghĩa của Ngài."
+      ]
+    }
+  ]
+}

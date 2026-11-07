@@ -1,0 +1,36 @@
+{
+  "surah": 44,
+  "name": "Ad-Dukhaan",
+  "name_vi": "Ad-Dukhaan",
+  "objectives": "Đe dọa những kẻ đa thần bằng cách trình bày về những gì đang chờ họ từ sự trừng phạt ngay lập tức (trên thế gian) và sự trừng phạt ở Ngày Sau",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 18,
+      "benefits": [
+        "* Qur'an được ban xuống vào Đêm Định Mệnh, Đêm mà có nhiều điều tốt đẹp chứng tỏ sự vĩ đại của Đêm đó.",
+        "* Việc cử phái các vị Thiên Sứ và ban xuống Qur'an là sự biểu hiện tình thương của Allah đối với đám bầy tôi của Ngài.",
+        "* Thông điệp của các Sứ Giả là phải giải thoát những người yếu thế khỏi sự chèn ép của những kẻ ngạo mạn."
+      ]
+    },
+    {
+      "ayah_from": 19,
+      "ayah_to": 39,
+      "benefits": [
+        "* Bắt buộc người có đức tin phải dựa dẫm vào Thượng Đế của y để được Ngài bảo vệ khỏi âm mưu của kẻ thù.",
+        "* Được phép cầu xin tiêu diệt những người không có đức tin khi họ không đáp lại lời kêu gọi, và trong chiến tranh.",
+        "* Vũ trụ không đau buồn cho cái chết của kẻ phủ nhận đức tin vì nó hổ thẹn với Allah.",
+        "* Những người vô thần không nhận thức được ý nghĩa vĩ đại qua việc tạo hóa các tầng trời và đất."
+      ]
+    },
+    {
+      "ayah_from": 40,
+      "ayah_to": 59,
+      "benefits": [
+        "* Kết hợp hình phạt cả thể chất lẫn tinh thần đối với kẻ phủ nhận đức tin.",
+        "* Chiến thắng vĩ đại là thoát khỏi Hỏa Ngục và được vào Thiên Đàng.",
+        "* Allah tạo sự dễ dàng đối với ngôn ngữ Qur'an và ý nghĩa của Nó cho đám bầy tôi của Ngài."
+      ]
+    }
+  ]
+}

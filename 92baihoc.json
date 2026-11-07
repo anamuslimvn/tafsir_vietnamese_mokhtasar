@@ -1,0 +1,27 @@
+{
+  "surah": 92,
+  "name": "Al-Lail",
+  "name_vi": "Al-Lail",
+  "objectives": "Trình bày về các hoàn cảnh của con người trong đức tin, trong việc chi tiêu và hoàn cảnh của từng nhóm",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 9,
+      "benefits": [
+        "* Tầm quan trọng của việc giữ bản thân trong sạch.",
+        "* Giúp đỡ nhau làm điều tội thì cả nhóm đồng tội.",
+        "* Tội lỗi là nguyên nhân bị trừng phạt ở trần gian.",
+        "* Tất cả mỗi người điều được tạo cho sự dễ dàng (để đạt mục tiêu) nhưng một số tuân lệnh và một số bất tuân."
+      ]
+    },
+    {
+      "ayah_from": 10,
+      "ayah_to": 21,
+      "benefits": [
+        "* Nabi có vị trí gần nhất với Allah, không còn vị trí nào gần hơn nữa.",
+        "* Tạ ơn về ân huệ đã ban là bổn phận của con người đối với Allah.",
+        "* Bắt buộc phải nhân từ với người yếu thế và nhẹ nhàng với họ."
+      ]
+    }
+  ]
+}

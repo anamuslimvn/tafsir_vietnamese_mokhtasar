@@ -1,0 +1,35 @@
+{
+  "surah": 32,
+  "name": "As-Sajda",
+  "name_vi": "As-Sajda",
+  "objectives": "Trình bày thực tế về việc tạo hoá và tình trạng của con người trong cuộc sống trần gian và Đời Sau",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 11,
+      "benefits": [
+        "* Mục đích trong sứ mạng của các Thiên Sứ là hướng dẫn dân chúng của mình đến với chính đạo.",
+        "* Xác định thuộc tính an vị của Allah nhưng không so sánh và cũng không nêu hình ảnh ví dụ.",
+        "* Người đa thần đã phủ nhận sự phục sinh mặc dù các bằng chứng đã quá rõ ràng."
+      ]
+    },
+    {
+      "ayah_from": 12,
+      "ayah_to": 20,
+      "benefits": [
+        "* Đức tin của những kẻ vô đức tin trong Ngày Tận Thế không có giá trị, bởi đó là nơi đền đáp công lao chứ không phải là nơi hành thiện.",
+        "* Sự hiểm họa của việc sao lãng về cuộc hội ngộ với Allah trong Ngày Tận Thế.",
+        "* Một trong những điều được hướng dẫn của những người có đức tin là họ hành lễ Salah trong đêm."
+      ]
+    },
+    {
+      "ayah_from": 21,
+      "ayah_to": 30,
+      "benefits": [
+        "* Hình phạt dành cho người vô đức tin ở trần gian là phương tiện giúp y biết ăn năn sám hối.",
+        "* Khẳng định cuộc gặp mặt giữa Thiên Sứ của chúng ta với Musa trong đêm Isra' và Mi'araj.",
+        "* Kiên nhẫn và kiên định là hai đức tín của các nhà lãnh đạo trong đạo Islam."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "surah": 80,
+  "name": "Abasa",
+  "name_vi": "Abasa",
+  "objectives": "Nhắc nhở những kẻ vô đức tin bất cần đến Thượng Đế về những bằng chứng của việc Phục sinh",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 40,
+      "benefits": [
+        "* Việc Allah khiển trách Thiên Sứ của Ngài về việc của 'Abdullah bin Um Maktum chứng minh Qur'an được đến từ Allah.",
+        "* Tầm quan trọng của kiến thức và sự chỉ đạo.",
+        "* Hoàn cảnh kinh hoàng Ngày Tận Thế khiến con người chỉ lo nghĩ cho bản thân mà bỏ mặc tất cả, kể cả giới Thiên Sứ cũng nói: thân ai người ấy lo."
+      ]
+    },
+    {
+      "ayah_from": 41,
+      "ayah_to": 42,
+      "benefits": [
+        "* Mỗi người sẽ được phục sinh cùng với điều mình đã làm, tốt hoặc xấu.",
+        "* Khi bé gái được mang ra tra hỏi tội gì bị giết, là bắng chứng khẳng định sự việc rất hệ trọng.",
+        "* Ý muốn của con người theo sau ý muốn của Allah."
+      ]
+    }
+  ]
+}

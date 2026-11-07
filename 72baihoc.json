@@ -1,0 +1,27 @@
+{
+  "surah": 72,
+  "name": "Al-Jinn",
+  "name_vi": "Al-Jinn",
+  "objectives": "Vô hiệu hóa tôn giáo của người đa thần bằng cách trình bày hoàn cảnh của loài Jinn và đức tin của họ sau khi nghe được Kinh Qur’an",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 13,
+      "benefits": [
+        "* Sự tác động tích cực của Qur'an đến những ai lắng nghe Nó bằng trái tim lành mạnh.",
+        "* Cầu xin sự phù hộ từ loài Jinn là Shirk với Allah và kết quả chỉ đi ngược lại với mong muốn của kẻ làm điều đó trên thế gian.",
+        "* Vạch trần sự giả dối của các nhà bói toán khi Thiên Sứ Muhammad được dựng lên.",
+        "* Một trong những phẩm chất đạo đức của người có đức tin là y không nghĩ xấu về Allah hoặc gán điều xấu cho Ngài."
+      ]
+    },
+    {
+      "ayah_from": 14,
+      "ayah_to": 28,
+      "benefits": [
+        "* Hành động sai quấy là nguyên nhân bị đày vào Hỏa Ngục.",
+        "* Tầm quan trọng của sự ngay thẳng là phương thức để đạt được những mục tiêu tốt đẹp.",
+        "* Các lời mặc khải được bảo vệ nghiêm ngặt khỏi sự quấy phá của những tên Shaytan."
+      ]
+    }
+  ]
+}

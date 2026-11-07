@@ -1,0 +1,26 @@
+{
+  "surah": 63,
+  "name": "Al-Munaafiqoon",
+  "name_vi": "Al-Munaafiqoon",
+  "objectives": "Trình bày sự thật về những kẻ giả tạo đức tin và cảnh báo về họ",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 4,
+      "benefits": [
+        "* Bắt buộc (nam giới) phải đến Masjid tham gia lễ nguyện Salah Jumu'ah sau khi tiếng Azdan được cất lên và cấm mọi hoạt động của trần gian ngoại trừ có lý do.",
+        "* Dành riêng một chương Kinh nói về người Munafiq muốn gởi thông điệp về những hiểm họa tiềm ẩn trong việc làm của họ.",
+        "* Cái cần quan tâm là ở sự tốt đẹp của nội tâm chứ không phải ở vẻ bên ngoài hay ở lời lẽ êm tai."
+      ]
+    },
+    {
+      "ayah_from": 5,
+      "ayah_to": 11,
+      "benefits": [
+        "* Quay lưng với lời khuyên bảo và tự cao là hai trong những bản tính của đám người Munafiq.",
+        "* Trong những cách chống đối tôn giáo là kiềm kẹp nền kinh tế đối với tín đồ Muslim.",
+        "* Mối hiểm nguy từ tài sản và con cái nếu vì hai thứ này mà xao lãng việc tụng niệm Allah."
+      ]
+    }
+  ]
+}

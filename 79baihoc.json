@@ -1,0 +1,27 @@
+{
+  "surah": 79,
+  "name": "An-Naazi'aat",
+  "name_vi": "An-Naazi'aat",
+  "objectives": "Nhắc nhở về Allah và Đời Sau",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 16,
+      "benefits": [
+        "* Lòng Taqwa (kính sợ Allah) là lý do được vào Thiên Đàng.",
+        "* Nhắc về những sự kiện Tận Thế thôi thúc năng làm việc ngoan đạo.",
+        "* Linh hồn người không có đức tin bị giật mạnh khi chết và linh hồn người có đức tin được rút nhẹ nhàng khi chết."
+      ]
+    },
+    {
+      "ayah_from": 17,
+      "ayah_to": 46,
+      "benefits": [
+        "* Người tuyên truyền kêu gọi đến với Allah phải nhẹ nhàng và từ tốn.",
+        "*Kính sợ Allah và kiềm chế bản thân làm theo dục vọng là lý do được vào Thiên Đàng.",
+        "* Kiến thức về tận thế là một trong những điều vô hình, không ai biết được ngoại trừ Allah.",
+        "* Allah trình bày chi tiết việc tạo hóa trời đất."
+      ]
+    }
+  ]
+}

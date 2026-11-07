@@ -1,0 +1,26 @@
+{
+  "surah": 64,
+  "name": "At-Taghaabun",
+  "name_vi": "At-Taghaabun",
+  "objectives": "Cảnh báo về những điều dẫn đến hối tiếc và bất công vào Ngày Phục Sinh",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 9,
+      "benefits": [
+        "* Trong những cách phân xử của Allah là Ngài phân chia con người thành nhóm người bất hạnh và nhóm người hạnh phúc.",
+        "* Trong những phương thức giúp con người ngoan đạo là luôn nghĩ đến sự thất bại vĩ đại của nhân loại vào Ngày Sau."
+      ]
+    },
+    {
+      "ayah_from": 10,
+      "ayah_to": 18,
+      "benefits": [
+        "* Tầm quan trọng của các Thiên Sứ là truyền đạt bức Thông Điệp của Allah, còn việc được hướng dẫn hay không là thẩm quyền thuộc về Allah duy nhất.",
+        "* Niềm tin vào sự Tiền Định là nguyên nhân giúp con tim luôn an nhiên và được hướng dẫn.",
+        "* Mỗi người chỉ bắt buộc hoàn thành bổn phận theo khả năng của mình.",
+        "* Ân phước được nhân lên bội phần đối với người chi tiêu vì chính nghĩa của Allah."
+      ]
+    }
+  ]
+}

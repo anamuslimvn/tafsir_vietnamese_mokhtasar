@@ -1,0 +1,27 @@
+{
+  "surah": 100,
+  "name": "Al-Aadiyaat",
+  "name_vi": "Al-Aadiyaat",
+  "objectives": "Cảnh báo con người về hành động chống đối và tham lam bằng cách nhắc nhở y về Đời Sau",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 5,
+      "benefits": [
+        "* Người ngoại đạo là tạo vật xấu xa nhất, và người có đức tin là tạo vật tốt đẹp nhất.",
+        "* Biết sợ Allah là nguyên nhân khiến người nô lệ được Allah hài lòng.",
+        "* Trái đất làm chứng cho việc làm của con người."
+      ]
+    },
+    {
+      "ayah_from": 6,
+      "ayah_to": 11,
+      "benefits": [
+        "* Mối hiểm họa cho việc hãnh diện tự hào về tài sản và con cái.",
+        "* Mồ mả là nơi thăm viếng nhanh, bởi là nơi chuyển tiếp con người đến cõi Đời Sau.",
+        "* Ngày Tận Thế, con người sẽ bị thẩm tra về mọi hưởng thụ được Allah ban cho ở trần gian.",
+        "* Con người mang bản chất yêu thích tài sản và của cải."
+      ]
+    }
+  ]
+}

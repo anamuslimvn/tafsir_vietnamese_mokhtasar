@@ -1,0 +1,26 @@
+{
+  "surah": 84,
+  "name": "Al-Inshiqaaq",
+  "name_vi": "Al-Inshiqaaq",
+  "objectives": "Nhắc nhở con người quay trở về với Thượng Đế của mình và trình bày sự yếu ớt của họ cũng như sự thay đổi hoàn cảnh của họ",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 24,
+      "benefits": [
+        "* Trời và đất luôn phủ phục trước Thượng Đế.",
+        "* Tất cả mỗi người đều có hành động tốt hoặc xấu.",
+        "* Dấu hiệu hạnh phúc trong Ngày Tận Thế là được nhận sổ ghi chép từ tay phải và dấu hiệu bất hạnh là nhận lấy bằng tay trái."
+      ]
+    },
+    {
+      "ayah_from": 25,
+      "ayah_to": 25,
+      "benefits": [
+        "* Thử thách dành cho người có đức tin tùy theo đức tin Iman của y.",
+        "* Sự ảnh hưởng của đức tin Iman đến thể xác là một trong những dấu hiệu thành đạt trong Ngày Tận thế.",
+        "* Sám hối đúng với các điều kiện qui định được xóa sạch tội đã phạm."
+      ]
+    }
+  ]
+}

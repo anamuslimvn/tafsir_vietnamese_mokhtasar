@@ -1,0 +1,35 @@
+{
+  "surah": 70,
+  "name": "Al-Ma'aarij",
+  "name_vi": "Al-Ma'aarij",
+  "objectives": "Trình bày hoàn cảnh và việc thưởng phạt nhân loại trong Ngày Phán Xét Cuối Cùng",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 10,
+      "benefits": [
+        "* Khẳng định Qur'an không phải là thơ ca cũng không phải là lời bói toán.",
+        "* Sự nguy hiểm cho việc bịa đặt lời phán của Allah cũng như nói dối rồi đổ thừa cho Ngài.",
+        "* Sự kiên nhẫn tốt đẹp xứng đáng nhận được ân phước từ nơi Allah là sự kiên nhẫn không than phiến với một ai."
+      ]
+    },
+    {
+      "ayah_from": 11,
+      "ayah_to": 40,
+      "benefits": [
+        "* Hình phạt khủng khiếp và đáng sợ nơi Hỏa Ngục làm cho cư dân của nó mong muốn tìm đủ mọi cách để thoát thân, dù bất cứ cách nào mà họ biết trên thế gian.",
+        "* Lễ nguyện Salah là một thứ vĩ đại nhất trong những thứ bôi xóa tội lỗi trên thế gian và giúp tránh khỏi Hỏa Ngục của Đời Sau.",
+        "* Nỗi sợ hãi hình phạt của Allah giúp một người hướng đến việc làm thiện tốt và ngoan đạo."
+      ]
+    },
+    {
+      "ayah_from": 41,
+      "ayah_to": 44,
+      "benefits": [
+        "* Sự nguy hiểm của việc vô tâm đối với cuộc sống Đời Sau.",
+        "* Thờ phượng Allah và kính sợ Ngài là nguyên nhân được tha thứ tội lỗi.",
+        "* Duy trì sự kêu gọi cũng như dùng nhiều phương cách để kêu gọi đến với Allah là nghĩa vụ bắt buộc đối với những người tuyên truyền kêu gọi."
+      ]
+    }
+  ]
+}

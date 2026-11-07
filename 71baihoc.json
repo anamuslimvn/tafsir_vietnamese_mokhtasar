@@ -1,0 +1,26 @@
+{
+  "surah": 71,
+  "name": "Nooh",
+  "name_vi": "Nooh",
+  "objectives": "Trình bày về đường lối truyền đạo dành cho người truyền giáo qua câu chuyện của Nuh (Nô-ê).",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 10,
+      "benefits": [
+        "* Sự nguy hiểm của việc vô tâm đối với cuộc sống Đời Sau.",
+        "* Thờ phượng Allah và kính sợ Ngài là nguyên nhân được tha thứ tội lỗi.",
+        "* Duy trì sự kêu gọi cũng như dùng nhiều phương cách để kêu gọi đến với Allah là nghĩa vụ bắt buộc đối với những người tuyên truyền kêu gọi."
+      ]
+    },
+    {
+      "ayah_from": 11,
+      "ayah_to": 28,
+      "benefits": [
+        "* Việc thường xuyên Istighfar (cầu xin Allah tha thứ bằng cách nói Astaghfirullah) là nguyên nhân được ban cho mưa và nhiều của cải, nhiều con cái.",
+        "* Vai trò của những người chức cao vọng trọng trong việc làm lệch lạc những người thấp cổ bé họng là điều được nhìn thấy rõ nhất.",
+        "* Tội lỗi là nguyên nhân dẫn đến sự diệt vong trên thế gian và sự trừng phạt ở cõi Đời Sau."
+      ]
+    }
+  ]
+}

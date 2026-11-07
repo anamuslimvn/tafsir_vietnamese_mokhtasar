@@ -1,0 +1,26 @@
+{
+  "surah": 87,
+  "name": "Al-A'laa",
+  "name_vi": "Al-A'laa",
+  "objectives": "Nhắc nhở linh hồn về cuộc sống Đời Sau và loại bỏ nó khỏi những ràng buộc trần tục",
+  "pages": [
+    {
+      "ayah_from": 1,
+      "ayah_to": 10,
+      "benefits": [
+        "* Thiên Thần luôn giám sát mọi hành động tốt, xấu của con người cho việc thanh toán sau này.",
+        "* Mưu kế của người vô đức tin luôn bị yếu kém khi đối đầu với mưu kế của Allah Hiển Vinh.",
+        "* Lòng kính sợ trổi dậy khi được khuyên bảo và nhắc nhở."
+      ]
+    },
+    {
+      "ayah_from": 11,
+      "ayah_to": 19,
+      "benefits": [
+        "* Tầm quan trọng của việc luôn giữ mình sạch sẽ khỏi mọi điều xấu làm bẩn cơ thể lẫn tấm lòng.",
+        "* Sự tồn tại của tạo vật khẳng định sự tồn tại của Đấng Tạo Hóa.",
+        "* Vai trò lớn nhất của người truyền giáo Islam là truyền đạt, còn việc hướng dẫn ai đó đến với chân lý nằm trong tay của Allah."
+      ]
+    }
+  ]
+}
